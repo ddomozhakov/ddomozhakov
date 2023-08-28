@@ -1,4 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://github.com/ddomozhakov" target="_blank">Denis</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">School 21 student</h3>
+
+### 👩‍💻 About Me :
+
+- Current Student of School 21
+- NRNU MEPhI — National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)
+---
+
+### :hammer_and_wrench: Languages and Tools, and Platforms :
+#### :information_desk_person: Languages
+Java
+
+C
+
+C++
+
+SQL
+
+#### :computer: Platforms
+MacOS
+
+Linux
 
 <!--
 **ddomozhakov/ddomozhakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
