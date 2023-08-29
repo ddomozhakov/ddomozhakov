@@ -8,8 +8,7 @@
 - PhD in Technology, кандидат технических наук
 ---
 
-### Languages and Tools, and Platforms :
-#### Languages
+### Languages :
 Java
 
 C
@@ -24,7 +23,7 @@ VERILOG
 
 VHDL
 
-#### Platforms
+### Platforms :
 MacOS
 
 Linux
