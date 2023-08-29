@@ -6,6 +6,7 @@
 
 - Current Student of School 21
 - NRNU MEPhI — National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)
+- PhD in Technology, кандидат технических наук
 ---
 
 ### :hammer_and_wrench: Languages and Tools, and Platforms :
