@@ -17,10 +17,6 @@ C++
 
 SQL
 
-HTML
-
-CSS
-
 Assembly
 
 VERILOG
